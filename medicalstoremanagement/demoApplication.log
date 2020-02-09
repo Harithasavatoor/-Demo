@@ -1,0 +1,37 @@
+[main] ERROR JDBD connectivity  - userid: 1
+[main] ERROR JDBD connectivity  - username: haritha
+[main] ERROR JDBD connectivity  - usermobno: 234567892
+[main] ERROR JDBD connectivity  - useraddress: blgr
+[main] ERROR JDBD connectivity  - userpincode: 45678
+[main] ERROR JDBD connectivity  - userdob: 2019-09-11
+[main] ERROR JDBD connectivity  - userdisease: ertyu
+[main] ERROR JDBD connectivity  - medicineid: 32
+[main] ERROR JDBD connectivity  - usermedbookingdate: 2020-01-07
+[main] ERROR JDBD connectivity  - userpassword: blgr
+[main] ERROR JDBD connectivity  - userbookingid: 0
+[main] DEBUG main  - Press 1 to UserInformation: 
+[main] DEBUG main  - Press 2 to MedicineInformation: 
+[main] DEBUG main  - press 3 Try to order
+[main] DEBUG main  - Press 4 to Go Back to Home 
+[main] DEBUG main  - Please enter your choice..
+[main] DEBUG main  - Press 1 to UserInformation: 
+[main] DEBUG main  - Press 2 to MedicineInformation: 
+[main] DEBUG main  - press 3 Try to order
+[main] DEBUG main  - Press 4 to Go Back to Home 
+[main] DEBUG main  - Please enter your choice..
+[main] DEBUG main  - Press 1 to UserInformation: 
+[main] DEBUG main  - Press 2 to MedicineInformation: 
+[main] DEBUG main  - press 3 Try to order
+[main] DEBUG main  - Press 4 to Go Back to Home 
+[main] DEBUG main  - Please enter your choice..
+[main] DEBUG main  - Press 1 to UserInformation: 
+[main] DEBUG main  - Press 2 to MedicineInformation: 
+[main] DEBUG main  - press 3 Try to order
+[main] DEBUG main  - Press 4 to Go Back to Home 
+[main] DEBUG main  - Please enter your choice..
+[main] DEBUG main  - Press 1 to UserInformation: 
+[main] DEBUG main  - Press 2 to MedicineInformation: 
+[main] DEBUG main  - press 3 Try to order
+[main] DEBUG main  - Press 4 to Go Back to Home 
+[main] DEBUG main  - Please enter your choice..
+[main] DEBUG main  - Go Back to Home
